@@ -13,6 +13,15 @@ function Footer() {
                 <img src={Logo} alt="logo" />
                 <span>E-commerce</span>
             </div>
+            <div className={css.block}>
+              <div className={css.detail}>
+                <span>Contact Us</span>
+                <span className={css.pngLine}>
+                  <LocationMarkerIcon className={css.icon}/>
+                  <span>111 north avenue Orlando, FL 32001</span>
+                </span>
+              </div>
+            </div>
         </div>
     </div>
   )
