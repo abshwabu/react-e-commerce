@@ -23,9 +23,7 @@ function Slider() {
             slidesPerGroup={1}
             loop={true}
             breakpoints={{
-              856:{
-                  slidesPerView:3
-              },
+              
               640:{
                   slidesPerView:2
               },
