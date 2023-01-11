@@ -63,6 +63,9 @@
     }
     .bars{
         display: block;
-        
+
+    }
+    .search{
+        display: none;
     }
 }
