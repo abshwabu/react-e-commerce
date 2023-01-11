@@ -46,12 +46,12 @@ function Hero() {
 
         </div><div className={css.h_sides}>
                 <div className={css.traffic}>
-                    <span>More than </span>
+                    
                     <span> 1.5M </span>
                     <span> Monthly Traffic</span>
                 </div>
                 <div className={css.customers}>
-                    <span>More than</span>
+                    
                     <span>100K</span>
                     <span>Posetive review</span>
                 </div>
